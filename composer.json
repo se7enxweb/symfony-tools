@@ -23,7 +23,7 @@
   },
   "require": {
     "php": "^7.1 || ^8.1 || ^8.2",
-    "symfony/symfony": "^3.4.24"
+    "se7enxweb/symfony": "^3.4.24"
   },
   "require-dev": {
     "cache/integration-tests": "dev-master",
